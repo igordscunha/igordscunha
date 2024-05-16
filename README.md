@@ -5,3 +5,4 @@
 - 📘 Student at Alura's Fullstack Development Program.
 - 👀 Interested in internships in dev...
 - 📫 How to reach me -> 📩 igordscunha@outlook.com / linkedin.com/in/igor-cunha-8a3450192/
+- 📒 My web resume in pt-br -> https://curriculo-igor.vercel.app/
