@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igor Cunha.
 - 📍 From Rio de Janeiro/RJ - Brazil.
 - ⏰ Former publicist/marketing man.
-- 🌱 Currently a post-graduate student in Software Engineer at Universidade Tecnológica Federal do Paraná (UTFPR).
+- 🌱 Currently studying Systems Analysis and Development at Fundação Getúlio Vargas (FGV) and post-graduate in Software Engineer at Universidade Tecnológica Federal do Paraná (UTFPR).
 - ✅ Alura's Fullstack Development Program completed.
 - ⭐ Approved for Santander Coders 2024 - DevOps Class.
 - 👀 For business contact. 👇
