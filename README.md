@@ -5,5 +5,5 @@
 - ✅ Alura's Fullstack Development Program completed.
 - ⭐ Approved for Santander Coders 2024 - DevOps Class.
 - 👀 For business contact. 👇
-- 📫 How to reach me 👉 📩 igordscunha@outlook.com / linkedin.com/in/igor-cunha-8a3450192/
+- 📫 How to reach me 👉 📩 igordscunha@outlook.com / [linkedin.com/in/igor-cunha-8a3450192/](https://www.linkedin.com/in/igor-cunha-8a3450192/)
 - 📒 My web resume in pt-br -> https://curriculo-igor.vercel.app/
